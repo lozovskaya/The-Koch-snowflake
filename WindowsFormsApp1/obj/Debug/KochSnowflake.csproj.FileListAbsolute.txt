@@ -1,0 +1,10 @@
+C:\Users\Eugenia\Downloads\Koch_snowflake\Koch_snowflake\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Eugenia\Downloads\Koch_snowflake\Koch_snowflake\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Eugenia\Downloads\Koch_snowflake\Koch_snowflake\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Eugenia\Downloads\Koch_snowflake\Koch_snowflake\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Eugenia\Downloads\Koch_snowflake\Koch_snowflake\WindowsFormsApp1\obj\Debug\KochSnowflake.csproj.GenerateResource.cache
+C:\Users\Eugenia\Downloads\Koch_snowflake\Koch_snowflake\WindowsFormsApp1\obj\Debug\KochSnowflake.csproj.CoreCompileInputs.cache
+C:\Users\Eugenia\Downloads\Koch_snowflake\Koch_snowflake\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Eugenia\Downloads\Koch_snowflake\Koch_snowflake\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Eugenia\Downloads\Koch_snowflake\Koch_snowflake\WindowsFormsApp1\obj\Debug\KochSnowflake.csprojAssemblyReference.cache
+C:\Users\Eugenia\Downloads\Koch_snowflake\Koch_snowflake\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form.resources
